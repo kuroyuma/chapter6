@@ -4,3 +4,30 @@
   box-sizing: border-box;
 }
 
+.box1{
+  height: 200px;
+  background-image: url(img/box1.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.box2{
+  height: 200px;
+  background-image: url(img/box2.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.box3{
+  height: 200px;
+  background-image: url(img/box3.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.box4{
+  height: 200px;
+  background-image: url(img/box4.jpg);
+  background-position: center;
+  background-size: cover;
+}
